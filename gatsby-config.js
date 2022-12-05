@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Xoyoc.Net`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Antonio Xoyoc Becerra Farias`,
+      summary: `Vivo en la costa michoacana pasionado Developer, Pilot Drone y Fotografo.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Encontraras una parte de mi en este sitio.`,
+    siteUrl: `https://www.xoyoc.net`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `xoyoc`,
     },
   },
   plugins: [
