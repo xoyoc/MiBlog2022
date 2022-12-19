@@ -11,13 +11,17 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.13",
+    "@mui/material": "^5.11.0",
     "@netlify/plugin-gatsby": "^3.5.0",
     "gatsby": "^5.2.0",
     "gatsby-plugin-feed": "^5.2.0",
     "gatsby-plugin-image": "^3.2.0",
     "gatsby-plugin-manifest": "^5.2.0",
+    "gatsby-plugin-material-ui": "^4.0.2",
     "gatsby-plugin-sharp": "^5.2.0",
     "gatsby-remark-images": "^7.2.0",
     "gatsby-remark-prismjs": "^7.2.0",
