@@ -10,7 +10,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
-import { Card, CardHeader } from "@mui/material";
+import { Card, CardActions, CardHeader, Typography } from "@mui/material";
 
 
 const BioInstagram = () => {
@@ -47,13 +47,15 @@ const BioInstagram = () => {
           <Box>
             <Card>
               <CardHeader>
-                Mi nombre es <strong>{author.name}</strong>
+                <Typography>Mi nombre es <strong>{author.name}</strong></Typography>
               </CardHeader>
               <p>Teléfono: 7531043367</p>
               <p>Email: <a href="mailto:xoyoc_l2@hotmail.com">xoyoc_l2@hotmail.com</a></p>
-              <a href="https://www.xoyoc.net">
-                Mi sitio Web
-              </a>
+              <CardActions>
+                <a href="https://www.xoyoc.net">
+                  Mi sitio Web
+                </a>
+              </CardActions>
             </Card>
           </Box>
         </Container>
