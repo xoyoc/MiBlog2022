@@ -1,7 +1,7 @@
 ---
 title: Drones en México
 date: "2022-11-27T18:40:03.284Z"
-description: "Drones en México"
+description: "Drones en México juguetes o herramientas"
 ---
 
 Siempre he querido ver el mundo desde lo mas alto posible con los drones logre hacer unos de mis sueños realidad.
